@@ -1,0 +1,183 @@
+-------------------------------------------
+Heal
+-------------------------------------------
+Problem: 
+I dont like the symbol change in HolyShock!
+Fixed this with "keepIcon" and HolyShock in the 1st place of "cast =..."
+
+Cast: 
+[ in HS ] Flash of Light 19750
+[ in HS ] Holy Light 82326
+
+Rota:
+[ yes ] Holy Shock 20473
+[ yes ] Light of Dawn 85222
+
+CDs:
+[ yes ] Aura Mastery 31821
+[ yes ] Avenging Wrath 31842 31842
+
+[ no ] Flessing of Freedom 1044
+[ no ] Blessing of Protection 1022
+[ no ] Blessing of Sacrifice 6940
+[ no ] Divine Protection 498
+[ no ] Divine Shield 642
+
+[ no ] Lay on Hands 633
+[ yes ] Tyr's Deliverance 200652
+
+T15
+[ yes ] 1 223306
+[ yes ] 2 114158
+[ yes ] 3 35395
+
+T30
+[ passive ] 4
+[ passive ] 5
+[ yes ] 6 214202
+
+T45
+[ passive ] 7
+[ optional ] 8 20066
+[ optional ] 9 115750
+
+T60
+[ passive ] 10
+[ passive ] 11
+[ passive ] 12
+
+T75
+[ passive ] 13
+[ yes ] 14 105809 105809
+[ yes ] 15 114165
+
+T90
+[ passive ] 16
+[ passive ] 17
+[ yes ] 18 20271 19641
+
+T100
+[ passive ] 19
+[ passive ] 20
+[ yes ] 21 200025 200025
+
+
+-------------------------------------------
+Prot
+-------------------------------------------
+Order: Hammer of the "Righteous/Blessed Hammer" must be in the 1st place, because of the 3xCooldown.
+	If it is befor "Shield of the Righteous" you cant see anything
+
+Cast:
+none
+
+Rota:
+[ yes ] Judgment 20271
+[ yes ] Consecration 26573 26573(dont need debuff)
+[ yes ] Avenger's Shield 31935
+[ yes ] Hammer of the Righteous 53595
+
+
+CDs:
+
+[ yes ] Shield of the Righteous 53600
+[ yes ] Light if the Protector 
+
+[ no ] Guardian of Ancient Kings
+[ no ] Ardent Defender 31850 31850
+[ no ] Lay on Hands 
+[ no ] Divine Shield
+[ yes ] Eye of Tyr
+
+
+T15
+[ passive ] 1
+[ yes ] 2 204019 204019(dont need debuff)
+[ passive ] 3 works
+
+T30
+[ passive ] 4
+[ yes ] 5 204035
+[ passive ] 6 works
+
+T45
+[ passive ] 7
+[ optional ] 8
+[ optional ] 9
+
+T60
+[ optional ] 10 204018
+[ passive ] 11
+[ passive ] 12
+
+T75
+[ yes ] 13 213652
+[ optional ] 14 190784 221886 (too many spells)
+[ passive ] 15
+
+T90
+[ optional ] 16 204150
+[ passive ] 17
+[ no ] 18 
+
+T100
+[ passive ] 19
+[ yes ] 20 152262
+[ passive ] 21
+
+-------------------------------------------
+Ret
+-------------------------------------------
+Problem:
+
+Cast:
+none
+
+Rota:
+[ yes ] Judgment 20271 197277
+[ yes ] Blade of Justice 184575
+[ yes ] Wake of Ashes 205273
+[ yes ] Crusader Strike 35395
+
+CDs:
+[ yes ] Avenging Wrath 31884
+[ yes ] Divine Shield 642
+[ optional] Shield of Vengeance 184662
+
+T15
+[ passive ] 1
+[ yes ] 2 213757
+[ yes ] 3 205228
+
+T30
+[ passive ] 4
+[ yes ] 5 217020 no playerbuff
+[ passive ] 6
+
+T45
+[ passive ] 7
+[ optional ] 8
+[ optional ] 9
+
+T60
+[ passive ] 10 works
+[ passive ] 11 works
+[ yes ] 12 184575
+
+T75
+[ no ] 13
+[ optional ] 14 205191
+[ no ] 15
+
+T90
+[ yes ] 16 in Divine Shield
+[ passive ] 17
+[ passive ] 18 no debuff
+
+T100
+[ passive ] 19
+[ yes ] 20 231895
+[ yes ] 21 210220
+
+
+
