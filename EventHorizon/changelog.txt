@@ -1,7 +1,8 @@
 Changelog:
 
 v2.0.0
-* 
+* Removed myconfig.lua (Configs need to be put into the 'EventHorizon_Configs' folder)
+* Removed Version check
 
 Other Version by https://github.com/Brusalk/EventHorizon_Continued
 Changelog:
