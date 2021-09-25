@@ -1,17 +1,17 @@
-## Interface: 90002
+## Interface: 90000
 ## Title: EventHorizon_|c99990000DeathKnight|r
-## Author: Brusalk
-## Dependencies: EventHorizon
+## Author: Leylaâ
+## Dependencies: EventHorizonSL
 ## LoadOnDemand: 1
-## OptDeps: 
-## SavedVariables: 
+## OptDeps:
+## SavedVariables:
 
 config.lua
-myconfig.lua
 
-# Custom myconfigs not in existing folder
-# You can specify class configs in the below files, but due to the Curse Client deleting all folders before unzip
-# it'll delete any myconfig.lua files that exist.
-# Thus, if you create an EventHorizon_Configs folder along side EventHorizon's folders, you can stick specific configs there
-# and they'll be used over config/myconfigs.
+# You can specify class configs in the File listed below. If you create an
+# "EventHorizon_Configs" folder along side EventHorizon's folders, you can
+# specific your own config there and they'll be used over the 'config.lua' File.
+# Just copy 'config.lua', rename it to 'deathknight_my_config.lua' and change it
+# to your liking
+
 ..\EventHorizon_Configs\deathknight_my_config.lua
